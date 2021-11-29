@@ -1,4 +1,4 @@
-const { APIMessage, Structures } = require("discord.js");
+co
 
 class Message extends Structures.get("Message") {
 
